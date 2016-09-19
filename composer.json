@@ -20,9 +20,9 @@
 		"flarum-extension": {
 			"title": "AutoVideo",
 			"icon": {
-				"name": "video",
-				"backgroundColor": "#1f781f",
-				"color": "#fff"
+				"name": "film",
+				"backgroundColor": "#e6e6e6",
+				"color": "#3c3c3c"
 			}
 		}
 	}

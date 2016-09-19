@@ -1,0 +1,29 @@
+{
+	"name": "s9e/flarum-ext-autovideo",
+	"description": "Automatically turn video links into playable videos.",
+	"type": "flarum-extension",
+	"keywords": ["flarum","video"],
+	"version": "1.0.0-dev",
+	"author": {
+		"name": "JoshyPHP"
+	},
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0",
+		"flarum/core": ">=0.1.0-beta.5"
+	},
+	"support": {
+		"source": "https://github.com/s9e/flarum-ext-autovideo",
+		"issues": "https://github.com/s9e/flarum-ext-autovideo/issues"
+	},
+	"extra": {
+		"flarum-extension": {
+			"title": "AutoVideo",
+			"icon": {
+				"name": "video",
+				"backgroundColor": "#1f781f",
+				"color": "#fff"
+			}
+		}
+	}
+}

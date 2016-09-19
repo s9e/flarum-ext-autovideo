@@ -3,7 +3,7 @@
 	"description": "Automatically turn video links into playable videos.",
 	"type": "flarum-extension",
 	"keywords": ["flarum","video"],
-	"version": "1.0.0-dev",
+	"version": "1.0.0",
 	"author": {
 		"name": "JoshyPHP"
 	},
